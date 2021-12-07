@@ -4,7 +4,7 @@ Plugin Name: Testes Versionamento WP Plugin
 Author:      Thailo Eduardo
 Author URI:  https://github.com/thailoeduardo/
 Description: PLUGIN DESCRIPTION
-Version:     1.0.1
+Version:     1.0.0
 Text Domain: text-domain
  */
 
