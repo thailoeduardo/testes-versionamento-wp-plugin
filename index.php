@@ -11,5 +11,5 @@ Text Domain: text-domain
 require_once( 'BFIGitHubPluginUploader.php' );
 
 if ( is_admin() ) {
-	new BFIGitHubPluginUpdater(__FILE__, 'thailo-eduardo', "testes-github-plugin-updater", "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");
+	new BFIGitHubPluginUpdater(__FILE__, 'thailoeduardo', "testes-versionamento-wp-plugin");
 }
